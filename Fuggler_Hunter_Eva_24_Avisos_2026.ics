@@ -1,0 +1,393 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Fuggler Hunter//24 avisos 2026//ES
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Fuggler Hunter ❤️
+X-WR-TIMEZONE:Europe/Madrid
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+BEGIN:VEVENT
+UID:fuggler-hunter-2026-01-v1@fugglerhunter.local
+DTSTAMP:20261110T152852Z
+DTSTART:20261123T163000Z
+DTEND:20261123T164500Z
+SUMMARY:🔓 Fuggler Hunter · 01/24 ❤️
+DESCRIPTION:¡Tu Fuggler de hoy te está esperando! ❤️ Abre Fuggler Hun
+ ter con el QR principal que recibiste.
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🔓 ¡Tu Fuggler de hoy te está esperando! ❤️
+TRIGGER:PT0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fuggler-hunter-2026-02-v1@fugglerhunter.local
+DTSTAMP:20261110T152852Z
+DTSTART:20261124T163000Z
+DTEND:20261124T164500Z
+SUMMARY:🔓 Fuggler Hunter · 02/24 ❤️
+DESCRIPTION:¡Tu Fuggler de hoy te está esperando! ❤️ Abre Fuggler Hun
+ ter con el QR principal que recibiste.
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🔓 ¡Tu Fuggler de hoy te está esperando! ❤️
+TRIGGER:PT0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fuggler-hunter-2026-03-v1@fugglerhunter.local
+DTSTAMP:20261110T152852Z
+DTSTART:20261125T163000Z
+DTEND:20261125T164500Z
+SUMMARY:🔓 Fuggler Hunter · 03/24 ❤️
+DESCRIPTION:¡Tu Fuggler de hoy te está esperando! ❤️ Abre Fuggler Hun
+ ter con el QR principal que recibiste.
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🔓 ¡Tu Fuggler de hoy te está esperando! ❤️
+TRIGGER:PT0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fuggler-hunter-2026-04-v1@fugglerhunter.local
+DTSTAMP:20261110T152852Z
+DTSTART:20261126T163000Z
+DTEND:20261126T164500Z
+SUMMARY:🔓 Fuggler Hunter · 04/24 ❤️
+DESCRIPTION:¡Tu Fuggler de hoy te está esperando! ❤️ Abre Fuggler Hun
+ ter con el QR principal que recibiste.
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🔓 ¡Tu Fuggler de hoy te está esperando! ❤️
+TRIGGER:PT0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fuggler-hunter-2026-05-v1@fugglerhunter.local
+DTSTAMP:20261110T152852Z
+DTSTART:20261127T163000Z
+DTEND:20261127T164500Z
+SUMMARY:🔓 Fuggler Hunter · 05/24 ❤️
+DESCRIPTION:¡Tu Fuggler de hoy te está esperando! ❤️ Abre Fuggler Hun
+ ter con el QR principal que recibiste.
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🔓 ¡Tu Fuggler de hoy te está esperando! ❤️
+TRIGGER:PT0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fuggler-hunter-2026-06-v1@fugglerhunter.local
+DTSTAMP:20261110T152852Z
+DTSTART:20261128T163000Z
+DTEND:20261128T164500Z
+SUMMARY:🔓 Fuggler Hunter · 06/24 ❤️
+DESCRIPTION:¡Tu Fuggler de hoy te está esperando! ❤️ Abre Fuggler Hun
+ ter con el QR principal que recibiste.
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🔓 ¡Tu Fuggler de hoy te está esperando! ❤️
+TRIGGER:PT0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fuggler-hunter-2026-07-v1@fugglerhunter.local
+DTSTAMP:20261110T152852Z
+DTSTART:20261129T180000Z
+DTEND:20261129T181500Z
+SUMMARY:🔓 Fuggler Hunter · 07/24 ❤️
+DESCRIPTION:¡Tu Fuggler de hoy te está esperando! ❤️ Abre Fuggler Hun
+ ter con el QR principal que recibiste.
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🔓 ¡Tu Fuggler de hoy te está esperando! ❤️
+TRIGGER:PT0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fuggler-hunter-2026-08-v1@fugglerhunter.local
+DTSTAMP:20261110T152852Z
+DTSTART:20261130T180000Z
+DTEND:20261130T181500Z
+SUMMARY:🔓 Fuggler Hunter · 08/24 ❤️
+DESCRIPTION:¡Tu Fuggler de hoy te está esperando! ❤️ Abre Fuggler Hun
+ ter con el QR principal que recibiste.
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🔓 ¡Tu Fuggler de hoy te está esperando! ❤️
+TRIGGER:PT0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fuggler-hunter-2026-09-v1@fugglerhunter.local
+DTSTAMP:20261110T152852Z
+DTSTART:20261201T120000Z
+DTEND:20261201T121500Z
+SUMMARY:🔓 Fuggler Hunter · 09/24 ❤️
+DESCRIPTION:¡Tu Fuggler de hoy te está esperando! ❤️ Abre Fuggler Hun
+ ter con el QR principal que recibiste.
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🔓 ¡Tu Fuggler de hoy te está esperando! ❤️
+TRIGGER:PT0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fuggler-hunter-2026-10-v1@fugglerhunter.local
+DTSTAMP:20261110T152852Z
+DTSTART:20261202T120000Z
+DTEND:20261202T121500Z
+SUMMARY:🔓 Fuggler Hunter · 10/24 ❤️
+DESCRIPTION:¡Tu Fuggler de hoy te está esperando! ❤️ Abre Fuggler Hun
+ ter con el QR principal que recibiste.
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🔓 ¡Tu Fuggler de hoy te está esperando! ❤️
+TRIGGER:PT0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fuggler-hunter-2026-11-v1@fugglerhunter.local
+DTSTAMP:20261110T152852Z
+DTSTART:20261203T110000Z
+DTEND:20261203T111500Z
+SUMMARY:🔓 Fuggler Hunter · 11/24 ❤️
+DESCRIPTION:¡Tu Fuggler de hoy te está esperando! ❤️ Abre Fuggler Hun
+ ter con el QR principal que recibiste.
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🔓 ¡Tu Fuggler de hoy te está esperando! ❤️
+TRIGGER:PT0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fuggler-hunter-2026-12-v1@fugglerhunter.local
+DTSTAMP:20261110T152852Z
+DTSTART:20261204T120000Z
+DTEND:20261204T121500Z
+SUMMARY:🔓 Fuggler Hunter · 12/24 ❤️
+DESCRIPTION:¡Tu Fuggler de hoy te está esperando! ❤️ Abre Fuggler Hun
+ ter con el QR principal que recibiste.
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🔓 ¡Tu Fuggler de hoy te está esperando! ❤️
+TRIGGER:PT0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fuggler-hunter-2026-13-v1@fugglerhunter.local
+DTSTAMP:20261110T152852Z
+DTSTART:20261205T183000Z
+DTEND:20261205T184500Z
+SUMMARY:🔓 Fuggler Hunter · 13/24 ❤️
+DESCRIPTION:¡Tu Fuggler de hoy te está esperando! ❤️ Abre Fuggler Hun
+ ter con el QR principal que recibiste.
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🔓 ¡Tu Fuggler de hoy te está esperando! ❤️
+TRIGGER:PT0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fuggler-hunter-2026-14-v1@fugglerhunter.local
+DTSTAMP:20261110T152852Z
+DTSTART:20261206T193000Z
+DTEND:20261206T194500Z
+SUMMARY:🔓 Fuggler Hunter · 14/24 ❤️
+DESCRIPTION:¡Tu Fuggler de hoy te está esperando! ❤️ Abre Fuggler Hun
+ ter con el QR principal que recibiste.
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🔓 ¡Tu Fuggler de hoy te está esperando! ❤️
+TRIGGER:PT0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fuggler-hunter-2026-15-v1@fugglerhunter.local
+DTSTAMP:20261110T152852Z
+DTSTART:20261207T224500Z
+DTEND:20261207T230000Z
+SUMMARY:🔓 Fuggler Hunter · 15/24 ❤️
+DESCRIPTION:¡Tu Fuggler de hoy te está esperando! ❤️ Abre Fuggler Hun
+ ter con el QR principal que recibiste.
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🔓 ¡Tu Fuggler de hoy te está esperando! ❤️
+TRIGGER:PT0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fuggler-hunter-2026-16-v1@fugglerhunter.local
+DTSTAMP:20261110T152852Z
+DTSTART:20261208T224500Z
+DTEND:20261208T230000Z
+SUMMARY:🔓 Fuggler Hunter · 16/24 ❤️
+DESCRIPTION:¡Tu Fuggler de hoy te está esperando! ❤️ Abre Fuggler Hun
+ ter con el QR principal que recibiste.
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🔓 ¡Tu Fuggler de hoy te está esperando! ❤️
+TRIGGER:PT0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fuggler-hunter-2026-17-v1@fugglerhunter.local
+DTSTAMP:20261110T152852Z
+DTSTART:20261209T224500Z
+DTEND:20261209T230000Z
+SUMMARY:🔓 Fuggler Hunter · 17/24 ❤️
+DESCRIPTION:¡Tu Fuggler de hoy te está esperando! ❤️ Abre Fuggler Hun
+ ter con el QR principal que recibiste.
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🔓 ¡Tu Fuggler de hoy te está esperando! ❤️
+TRIGGER:PT0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fuggler-hunter-2026-18-v1@fugglerhunter.local
+DTSTAMP:20261110T152852Z
+DTSTART:20261210T224500Z
+DTEND:20261210T230000Z
+SUMMARY:🔓 Fuggler Hunter · 18/24 ❤️
+DESCRIPTION:¡Tu Fuggler de hoy te está esperando! ❤️ Abre Fuggler Hun
+ ter con el QR principal que recibiste.
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🔓 ¡Tu Fuggler de hoy te está esperando! ❤️
+TRIGGER:PT0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fuggler-hunter-2026-19-v1@fugglerhunter.local
+DTSTAMP:20261110T152852Z
+DTSTART:20261211T224500Z
+DTEND:20261211T230000Z
+SUMMARY:🔓 Fuggler Hunter · 19/24 ❤️
+DESCRIPTION:¡Tu Fuggler de hoy te está esperando! ❤️ Abre Fuggler Hun
+ ter con el QR principal que recibiste.
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🔓 ¡Tu Fuggler de hoy te está esperando! ❤️
+TRIGGER:PT0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fuggler-hunter-2026-20-v1@fugglerhunter.local
+DTSTAMP:20261110T152852Z
+DTSTART:20261212T170000Z
+DTEND:20261212T171500Z
+SUMMARY:🔓 Fuggler Hunter · 20/24 ❤️
+DESCRIPTION:¡Tu Fuggler de hoy te está esperando! ❤️ Abre Fuggler Hun
+ ter con el QR principal que recibiste.
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🔓 ¡Tu Fuggler de hoy te está esperando! ❤️
+TRIGGER:PT0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fuggler-hunter-2026-21-v1@fugglerhunter.local
+DTSTAMP:20261110T152852Z
+DTSTART:20261213T180000Z
+DTEND:20261213T181500Z
+SUMMARY:🔓 Fuggler Hunter · 21/24 ❤️
+DESCRIPTION:¡Tu Fuggler de hoy te está esperando! ❤️ Abre Fuggler Hun
+ ter con el QR principal que recibiste.
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🔓 ¡Tu Fuggler de hoy te está esperando! ❤️
+TRIGGER:PT0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fuggler-hunter-2026-22-v1@fugglerhunter.local
+DTSTAMP:20261110T152852Z
+DTSTART:20261214T224500Z
+DTEND:20261214T230000Z
+SUMMARY:🔓 Fuggler Hunter · 22/24 ❤️
+DESCRIPTION:¡Tu Fuggler de hoy te está esperando! ❤️ Abre Fuggler Hun
+ ter con el QR principal que recibiste.
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🔓 ¡Tu Fuggler de hoy te está esperando! ❤️
+TRIGGER:PT0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fuggler-hunter-2026-23-v1@fugglerhunter.local
+DTSTAMP:20261110T152852Z
+DTSTART:20261215T221500Z
+DTEND:20261215T223000Z
+SUMMARY:🔓 Fuggler Hunter · 23/24 ❤️
+DESCRIPTION:¡Tu Fuggler de hoy te está esperando! ❤️ Abre Fuggler Hun
+ ter con el QR principal que recibiste.
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🔓 ¡Tu Fuggler de hoy te está esperando! ❤️
+TRIGGER:PT0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fuggler-hunter-2026-24-v1@fugglerhunter.local
+DTSTAMP:20261110T152852Z
+DTSTART:20261216T214500Z
+DTEND:20261216T220000Z
+SUMMARY:🔓 Fuggler Hunter · 24/24 ❤️
+DESCRIPTION:¡Tu Fuggler de hoy te está esperando! ❤️ Abre Fuggler Hun
+ ter con el QR principal que recibiste.
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🔓 ¡Tu Fuggler de hoy te está esperando! ❤️
+TRIGGER:PT0S
+END:VALARM
+END:VEVENT
+END:VCALENDAR
